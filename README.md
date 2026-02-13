@@ -1,5 +1,5 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-# Name: RAGHUANTHAN A
+# Name: RAGHUNATHAN A
 # Register No:212224080048
 # Algorithm or Steps Involved:
 <ol>
