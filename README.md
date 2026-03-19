@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-# Name: RAGHUNATHAN A
-# Register No:212224080048
+# Name: ANUMANTHU DINESH CHANDAR KRISHN
+# Register No:212224080006
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
